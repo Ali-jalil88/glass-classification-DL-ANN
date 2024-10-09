@@ -30,4 +30,4 @@
 - After training, make predictions on the test set using model.predict and evaluate the model's performance on unseen data.
 ## Links:
 - **[Project Notebook](https://www.kaggle.com/code/alialarkawazi/glass-classification-dl-ann)**
-- **[Dataset]([https://www.kaggle.com/datasets/sshikamaru/fruit-recognition](https://www.kaggle.com/datasets/uciml/glass))**
+- **[Dataset]([https://www.kaggle.com/datasets/sshikamaru/fruit-recognition](https://www.kaggle.com/datasets/uciml/glass)**
