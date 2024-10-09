@@ -1,5 +1,5 @@
 # Glass-Classification-DL-ANN
-![Glass-Classification Deep Learning Project](https://github.com/Ali-jalil88/Fruit-ANN-CNN/blob/main/DALL%C2%B7E%202024-10-08%2014.00.27%20-%20A%20vibrant%20and%20detailed%20image%20of%20a%20fruit%20classification%20system%2C%20showing%20various%20fruits%20like%20apples%2C%20bananas%2C%20oranges%2C%20and%20strawberries%20in%20clear%20section.webp)
+![Glass-Classification Deep Learning Project](https://github.com/Ali-jalil88/glass-classification-DL-ANN/blob/main/DALL%C2%B7E%202024-10-09%2013.56.12%20-%20A%20vibrant%20illustration%20of%20a%20deep%20learning%20process%20for%20glass%20classification%20using%20an%20Artificial%20Neural%20Network%20(ANN).%20The%20image%20shows%20a%20flowchart-like%20.webp)
 ### For Glass Classification using a Deep Learning Model (ANN), here’s a breakdown of the key topics:
 
 #### 1- CSV Files & Data Splitting (pandas/sklearn):
